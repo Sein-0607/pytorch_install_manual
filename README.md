@@ -14,7 +14,9 @@
 nvidia-smi
 ```
 
-만약 설치된 CUDA 버전이 11.6이 아닌 경우, CUDA 11.6 버전을 설치해야 합니다. 설치 방법은 NVIDIA의 공식 페이지를 참고하십시오.
+만약 설치된 CUDA 버전이 11.6이 아닌 경우, CUDA 11.6 버전을 설치해야 합니다. 설치 방법은 NVIDIA의 공식 페이지를 참고하십시오. ([NVIDIA 공식 홈페이지](https://www.nvidia.com/))
+
+CUDA 설치 가이드 페이지: [https://docs.nvidia.com/cuda/index.html](https://docs.nvidia.com/cuda/index.html)
 
 ## PyTorch 설치
 
